@@ -1,2 +1,2 @@
 #Git basic
-Practice repository for learning git work flow
+Hello world!, I love using Git
