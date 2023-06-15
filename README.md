@@ -1,2 +1,2 @@
 #Git basic
-Hello world!, I love using Git
+This is my first remote repository edit and commit
